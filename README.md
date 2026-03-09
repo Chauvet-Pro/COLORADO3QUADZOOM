@@ -3,7 +3,7 @@
 ## Software Versions
 
 [V1.2 - COLORado 3 Quad Zoom](https://github.com/Chauvet-Pro/COLORADO3QUADZOOM/blob/eb0726ade05a78ca67c0b7844028c363aec03623/firmware/V1.2.zip) 
-Mandatory Update
+- Mandatory Update
 - Adjusts display heater tolerance
 - Improves long-term battery and display operating conditions
 
