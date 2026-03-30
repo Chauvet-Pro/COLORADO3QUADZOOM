@@ -3,6 +3,7 @@
 ## Software Versions
 
 [V1.3 - COLORado 3 Quad Zoom](https://github.com/Chauvet-Pro/COLORADO3QUADZOOM/blob/2d02295a4da5a08056fb5b5bb93f6a8694e27503/firmware/V1.3.zip)
+
 <<RECOMMENDED FOR ALL USERS>>
 - Fixes issue that power cycling the fixture causes all units in that universe to flicker randomly and/or reset.
 - Fixes RDM timing issues.
